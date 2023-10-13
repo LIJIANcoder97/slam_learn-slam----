@@ -1,0 +1,26 @@
+20:03:08 [App     ] Build date: Feb 27 2023, 21:07:35
+20:03:08 [App     ] CPU: Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz (4 cores)
+20:03:08 [App     ] RAM: 7.56GB Physical Memory 2.00GB Virtual Memory
+20:03:08 [App     ] OS: Linux 5.15.0-56-generic (x86_64)
+20:03:08 [App     ] SSE & AVX compatible CPU & OS detected
+20:03:08 [App     ] Command line: -w /home/q-v-/文档/MVS/data -i scene.mvs -o test_dense.mvs
+20:03:08 [App     ] Camera model loaded: platform 0; camera  0; f 1.054x1.054; poses 11
+20:03:08 [App     ] Image loaded   0: 00000.jpg
+20:03:08 [App     ] Image loaded   1: 00001.jpg
+20:03:08 [App     ] Image loaded   2: 00002.jpg
+20:03:08 [App     ] Image loaded   3: 00003.jpg
+20:03:09 [App     ] Image loaded   4: 00004.jpg
+20:03:09 [App     ] Image loaded   5: 00005.jpg
+20:03:09 [App     ] Image loaded   6: 00006.jpg
+20:03:09 [App     ] Image loaded   7: 00007.jpg
+20:03:09 [App     ] Image loaded   8: 00008.jpg
+20:03:09 [App     ] Image loaded   9: 00009.jpg
+20:03:09 [App     ] Image loaded  10: 00010.jpg
+20:03:09 [App     ] Scene loaded from interface format (684ms):
+	11 images (11 calibrated) with a total of 63.22 MPixels (5.75 MPixels/image)
+	12683 points, 0 vertices, 0 faces
+20:03:09 [App     ] Preparing images for dense reconstruction completed: 11 images (266ms)
+20:03:09 [App     ] Selecting images for dense reconstruction completed: 11 images (7ms)
+20:03:09 [App     ] Reference image   3 paired with 4 views
+20:03:10 [App     ] Reference image   0 paired with 4 views
+20:03:36 [App     ] Depth-map for image   3 estimated using  4 images: 1416x1064 (26s808ms)

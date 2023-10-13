@@ -1,0 +1,10 @@
+#Image Res.(w,h):
+640 480
+#focus lens     :
+600 600
+#principal pt   :
+320 240
+#Undist. coeff. :
+0 0 0
+#Coordinate Sys.:
+RH_Y_UP

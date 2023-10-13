@@ -1,0 +1,10 @@
+1 wall/1.png
+1 wall/2.png
+1 wall/3.png
+1 wall/4.png
+1 wall/5.png
+1 wall/6.png
+1 wall/7.png
+1 wall/8.png
+1 wall/9.png
+1 wall/10.png
